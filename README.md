@@ -8,10 +8,15 @@ A multistatic system uses a transmitter to illuminate the object of interest and
 # Code Description
 
 MSLocJntObjTx.m: Algebraic Closed-Form Solution for Single Transmitter (for Figs. 3 & 4)
+
 MSLocJntObjTxMulti.m: Algebraic Closed-Form Solution for Multiple Trnasmitters (for Fig. 6)
+
 MSLocJntObjTxCRLB.m: CRLB without Sensor Position Error (for Fig. 3)
+
 MSLocJntObjTxCRLB_RxErr.m: CRLB with Sensor Position Error (for Fig. 4)
+
 MSLocJntObjTxMultiCRLB_RxErr.m: CRLB for Multiple Transmitters with Sensor Position Error (for Fig. 6)
+
 Example_Fig3.m, Example_Fig4.m, Example_Fig6.m: Example Reproduction: 
 
 # Reference
