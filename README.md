@@ -1,5 +1,5 @@
 # Simultaneous-Target-and-Transmitter-Localization
-Processing Code for "Multistatic Localization in the Absence of Transmitter Position"
+MATLAB Processing Code for "Multistatic Localization in the Absence of Transmitter Position"
 
 # Project Abstract
 
